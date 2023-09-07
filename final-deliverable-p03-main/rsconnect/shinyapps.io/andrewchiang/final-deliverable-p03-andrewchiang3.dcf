@@ -1,0 +1,16 @@
+name: final-deliverable-p03-andrewchiang3
+title: final-deliverable-p03-andrewchiang3
+username: andrewchiang
+account: andrewchiang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9606677
+<<<<<<< HEAD
+bundleId: 7571271
+=======
+bundleId: 7568053
+>>>>>>> edcbae7b40a86b205d8c0c2bda8ab0a5a017987a
+url: https://andrewchiang.shinyapps.io/final-deliverable-p03-andrewchiang3/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
