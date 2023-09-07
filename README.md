@@ -1,5 +1,5 @@
 # CO2 Emissions from the Agriculture Sector (1990-2020)
-## INFO 201 "Foundational Skills for Data Science" — Winter 2023
+## INFO 201 "Foundational Skills for Data Science" — Summer 2023
 
 Authors: Andrew Chiang, Kyle Mangum, Nobel Menghis, Aidan Murphy
 
